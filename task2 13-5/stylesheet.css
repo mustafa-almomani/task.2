@@ -1,0 +1,28 @@
+
+.content{
+    overflow: auto;
+    margin: auto; 
+    width: 80%;
+
+
+}
+.content-img{
+    
+    border: 1px solid gray;
+    margin-left: 10%;
+    width: 20%;
+     position: relative;
+     float: left;
+
+
+}
+img{
+    width: 100%;
+} 
+.divspan{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    height: 28px;
+    background-color: rgb(24, 23, 23);
+}
