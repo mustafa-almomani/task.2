@@ -1,0 +1,97 @@
+.m{
+    background-color:rgb(196, 91, 91);
+}
+mark{
+    font-weight: bold;
+}
+article{
+    height: 700px;
+    
+    background-color: antiquewhite;
+}
+.one{
+    margin-left: 5px;
+    background-color: white;
+    width: 50%;
+    height: 200px;
+     border: groove;
+}
+.tow{
+    margin-left: 5px;
+    background-color: white;
+    width: 50%;
+    height: 200px;
+     border: 1px dashed black;
+}
+#par{
+    margin-left: 9px;
+    width: 640px;
+    border: 1px dotted rgb(247, 0, 0);
+}
+.tow{
+    margin-top: 20px;
+    margin-left: 5px;
+    background-color: white;
+    width: 50%;
+    height: 200px;
+     border: 1px dashed black;
+}
+.three{
+    margin-left: 5px;
+    background-color: white;
+    width: 50%;
+    height: 200px;
+    margin-top: 20px;
+    border: 1px solid  gray ;
+
+    color: blueviolet;
+    
+}
+
+#pa{
+    margin-left: 9px;
+    width: 640px;
+}
+b{
+    color: blue;
+}
+pre{
+    font-weight: bold;
+
+    font-family: consolas;
+font-size: 20px;
+}
+.value{
+    font-family: consolas;
+font-weight: bold;
+    font-size: large;
+    color: green;
+}
+.proberty{
+    font-family: consolas;
+    font-weight: bold;
+
+    font-size: large;
+    color: blue;
+}
+.exh3{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: chocolate;
+}
+.exh31{
+    text-transform: capitalize;
+    font-size: 55px;
+    text-align: end;
+font-weight: bold;
+}
+.exp3{
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: Arial;
+}
+.exp31{
+    font-family: "Lucida Console", "Courier New", monospace;    text-transform: capitalize;
+    font-size: 20px;
+    text-align: end;
+}
