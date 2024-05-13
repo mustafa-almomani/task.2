@@ -1,0 +1,24 @@
+.contant{
+    position: relative;
+    background-color: orangered;
+    width: 140px;
+    height: 140px;
+    margin: auto;
+    top: 140px;
+}
+p{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 63px;
+    left: 2px;
+    font-size: 35px;
+}
+.contener{
+    position: relative;
+    top: 30px;
+    margin: auto;
+    background-color: whitesmoke;
+    height: 550px;
+    width: 375px;
+    overflow: auto;
+}
