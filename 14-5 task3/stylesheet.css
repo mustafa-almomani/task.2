@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.flex div{
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 65px;
+  height: 100vh;
+}
+.flex{
+    height: 100vh;
+    background-color:#ec6464;
+    width: 100%;
+    
+    display: flex;
+    border: 2px solid brown;
+    
+    line-height: 100vh;
+    justify-content: center;
+    }

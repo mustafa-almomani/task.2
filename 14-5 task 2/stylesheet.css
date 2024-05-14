@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+.flex div{
+    width: 25%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 65px;
+}
+.flex{
+    flex-wrap: wrap;
+    width: 100%;
+    display: flex;
+    border: 7px solid #daa520;
+    }

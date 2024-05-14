@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.flex div{
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 65px;
+}
+.flex{
+    height: 90vh;
+    background-color:#ec6464;
+    width: 100%;
+    /* padding: 20px; */
+    /* margin: 20px auto; */
+    display: flex;
+    border: 2px solid brown;
+    align-items: stretch;
+    
+    }
