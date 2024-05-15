@@ -1,0 +1,123 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+.header{
+    display: flex;
+    text-align: center;
+    background-repeat: round;
+    background-image: url(img/free-photo-of-laptop-in-office.jpeg);
+    height: 250px;
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+
+    
+}
+.contener1{
+    font-size: 21px;
+    text-align: center;
+    margin-top: -26px;
+    background-color: rgb(241 233 233);
+
+}
+button{
+    background-color: black;
+    color: white;
+    margin-top: 17px;
+    height: 50px;
+    border-radius: 14px;
+background-color: black;
+    color: white;
+}
+
+
+
+.content{
+    display: flex;
+    overflow: auto;
+    justify-content: center;
+gap:10px;
+
+
+}
+.content-img{
+    background-color: white;
+    border: 1px solid gray;
+    width: 20%;
+   
+
+
+}
+img{
+    width: 100%;
+} 
+.divspan{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    height: 28px;
+    background-color: rgb(24, 23, 23);
+}
+.contener{
+    background-color: rgb(215 201 201);
+        margin-top: -20px;
+}
+.headerr{
+    margin-top: 13px;
+
+    background-color: white;
+    display: flex;
+    text-align: center;
+    background-repeat: round;
+    height: 250px;
+    color: rgb(0, 0, 0);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+
+    
+}
+.about{
+    line-height: 40px;
+    text-align: center;
+    height: 230px;
+    display: flex;
+}
+.div1{
+    width: 50%;
+background-color: rgb(73, 73, 250);
+}
+.div2{
+    width: 50%;
+
+background-color: rgb(58, 57, 57);
+}
+.about a{
+    display: block;
+}
+footer{
+    padding-top: 30px;
+    margin-top: -16px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+@media screen and (max-width: 430px) {
+    .content  {
+      flex-wrap: wrap;
+    }
+   .header {
+        height: 35vh;
+      }
+      .div1 p {
+        height: 250px;
+        font-size: 15px;
+    
+      }
+     
+}
